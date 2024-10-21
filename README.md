@@ -1,4 +1,4 @@
-### olá! Eu sou o Ramiro Nobre, sou um desenvolvedor apaixonado por tecnologia! 
+### olá! Eu sou o Ramiro Nobre, sou um desenvolvedor apaixonado por tecnologia! ✌️
 
 Entre em contato comigo!
 E-mail: Ramiropereira1987@gmail.com
