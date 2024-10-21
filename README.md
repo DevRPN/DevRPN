@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 ### olá! Eu sou o Ramiro Nobre ✌️
 
 ![Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRPN&show_icons=true&theme=tokyonight)
