@@ -1,5 +1,8 @@
 ### olá! Eu sou o Ramiro Nobre, sou um desenvolvedor apaixonado por tecnologia! 
 
+Entre em contato comigo!
+E-mail: Ramiropereira1987@gmail.com
+
 ![Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRPN&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que eu uso no meu dia
