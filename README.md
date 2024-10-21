@@ -1,4 +1,4 @@
-### olá! Eu sou o Ramiro Nobre sou um desenvolvedor apaixonado por tecnologia! 
+### olá! Eu sou o Ramiro Nobre,sou um desenvolvedor apaixonado por tecnologia! 
 
 ![Nobre GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRPN&show_icons=true&theme=tokyonight)
 
